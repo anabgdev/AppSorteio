@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SorteioApp</string>
+    <string name="nenhum_n_mero_selecionado">Nenhum número selecionado</string>
+</resources>
